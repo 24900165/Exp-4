@@ -1,4 +1,4 @@
-![CommunicationDiagram1 for hospital](https://github.com/user-attachments/assets/aaa7f39d-0c50-4930-ab7c-0f360f72f2e9)# Exp - 4 HOSPITAL MANAGEMENT SYSTEM
+# Exp - 4 HOSPITAL MANAGEMENT SYSTEM
 
 # AIM:
 To develop the Hospital management System using Star UML tool.
